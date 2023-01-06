@@ -4,7 +4,7 @@
  * @version 0.2.2
  * @author 𝑬𝑳 𝑩𝑶𝑩 البوب#4883 (Oggetto)
  * @authorId 347419615007080453
- * @source https://github.com/JustOptimize/return-ShowHiddenChannels
+ * @source https://github.com/eihabgamal20/ShowHiddenChannels
  * @updateUrl https://raw.githubusercontent.com/JustOptimize/return-ShowHiddenChannels/main/ShowHiddenChannels.plugin.js
 */
 
@@ -18,8 +18,8 @@ module.exports = (() => {
       }],
       description: "A plugin which displays all hidden Channels, which can't be accessed due to Role Restrictions, this won't allow you to read them (impossible).",
       version: "0.2.2",
-      github: "https://github.com/JustOptimize/return-ShowHiddenChannels",
-      github_raw: "https://raw.githubusercontent.com/JustOptimize/return-ShowHiddenChannels/main/ShowHiddenChannels.plugin.js"
+      github: "https://github.com/eihabgamal20/ShowHiddenChannels",
+      github_raw: "https://github.com/eihabgamal20/ShowHiddenChannels/blob/main/ShowHiddenChannels.plugin.js"
     },
 
     changelog: [
